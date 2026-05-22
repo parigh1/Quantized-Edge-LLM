@@ -1,0 +1,18 @@
+﻿# Virtual environment
+.venv/
+
+# Model weights — too large for git (use HuggingFace instead)
+models/
+
+# Results (optional — remove this line if you want charts tracked)
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Temp files
+*.tmp
+*.log
