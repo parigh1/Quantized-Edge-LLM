@@ -1,18 +1,19 @@
-﻿# Virtual environment
-.venv/
-
-# Model weights — too large for git (use HuggingFace instead)
+﻿# Model files — too large for GitHub
 models/
+*.gguf
+*.safetensors
+*.bin
+*.pt
 
-# Results (optional — remove this line if you want charts tracked)
-results/
-
-# Python cache
+# Python
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-.pytest_cache/
+.env
 
-# Temp files
-*.tmp
-*.log
+# Results CSVs and plots (add manually when ready)
+# results/
+
+# OS
+.DS_Store
+Thumbs.db
