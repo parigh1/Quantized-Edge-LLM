@@ -54,4 +54,3 @@ pip install -r requirements.txt
 ```
 
 ---
-*Part of my edge AI + LLM portfolio — also see [EVA-1 Drone CV System](https://github.com/parigh1)*
