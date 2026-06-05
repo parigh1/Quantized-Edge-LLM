@@ -7,7 +7,7 @@ Benchmarking quantized LLM inference across NVIDIA GPU and Raspberry Pi 4 ARM CP
 | Model | HuggingFace | Type |
 |---|---|---|
 | Llama 3.2-1B Mental Health | [Parigh1/Llama-3.2-1B-Mental-Health-Friend](https://huggingface.co/Parigh1/Llama-3.2-1B-Mental-Health-Friend) | LoRA fine-tune |
-| Gugu 8B Mental Wellness | [Parigh1/gugu-merged](https://huggingface.co/Parigh1/gugu-merged) | Full fine-tune |
+| Gugu 8B Mental Wellness (To be Tested...) | [Parigh1/gugu-merged](https://huggingface.co/Parigh1/gugu-merged) | Full fine-tune |
 
 ## Results
 
